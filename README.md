@@ -1,11 +1,4 @@
-Coonnection to DB
-
-spring.datasource.url= jdbc:mysql://10.11.1.155:3306/grampus_db?\
-  useSSL=false&serverTimezone=UTC&\
-  allowPublicKeyRetrieval=true
-spring.datasource.username=testuser
-spring.datasource.password=1234qwer
-
+Coonnection to DB  grampus_db
 
 In ALL methods you shoud input user token to header in POSTMAN and parameters to JSON except
 Register new User
